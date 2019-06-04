@@ -7,6 +7,7 @@ namespace testTeam
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World this is the NASVIL Project!");
+            Console.WriteLine(" HELLOOOO My NAme iS Giorgos ANastasiadis" );
         }
     }
 }
